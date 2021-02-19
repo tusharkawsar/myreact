@@ -1,3 +1,9 @@
+# Intro
+
+A full react boilerplate with ESLint and Prettier properly set up, including in dev dependcies.
+
+Use this boilerplate to start any new react app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
