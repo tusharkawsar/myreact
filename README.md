@@ -1,6 +1,6 @@
 # Intro
 
-A full react boilerplate with ESLint and Prettier properly set up, including in dev dependcies.
+A full react boilerplate with ESLint and Prettier properly set up, including in dev dependcies. Also has vscode Project level dependcies set up in the .vscode/settings.json file.
 
 Use this boilerplate to start any new react app.
 
